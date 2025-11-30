@@ -1,0 +1,33 @@
+# core
+streamlit
+langchain
+langchain_openai
+langchain-community
+langchain_classic
+langchain-core
+openai
+chromadb
+langchain_chroma
+
+# file loaders & utilities
+python-multipart
+docx2txt
+pypdf
+python-docx
+python-pptx
+pandas
+tqdm
+
+# optional (if using image OCR)
+pytesseract
+Pillow
+
+# dev
+python-dotenv
+langchain-docling
+
+
+# For docling
+# langchain 0.3.8
+# langchain-core 0.3.19
+# langchain-docling 1.1.0
